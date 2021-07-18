@@ -5,6 +5,7 @@
 上传已修改代码步骤:
 （1）git add .
 （2）git commit -m "提交说明"
-（3）git push origin 仓库名
+（3）git push origin 分支名
 
 在上传时遇到冲突:
+testtesttest
